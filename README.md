@@ -39,7 +39,7 @@ https://docs.google.com/spreadsheets/d/1D4fZuvnU0kHW06haCUSL5URcz_IUb8-QsOlkY_mS
 * ransack
 
 ## 要件
-就業Termから少なくとも2つ
-1.コメント,devise
-就業Termから少なくとも2つ
-2.ransack
+1.就業Termから少なくとも2つ
+* コメント,devise
+2.就業Termから少なくとも2つ
+* ransack

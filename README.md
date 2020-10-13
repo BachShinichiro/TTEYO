@@ -1,5 +1,4 @@
 # README
-# メイクマッチングアプリ
 
 ## 概要
 小劇場向けの公演予約アプリ
@@ -18,15 +17,15 @@ Rails 5.2.4
 - [ ] 掲示板コメント機能
 
 ## カタログ設計
-https://docs.google.com/spreadsheets/d/1m7UpFY9MoG_pMLh4w_KYLdmSs0KF2odvffEuLwPeXDg/edit#gid=0
+https://docs.google.com/spreadsheets/d/1m7UpFY9MoG_pMLh4w_KYLdmSs0KF2odvffEuLwPeXDg/edit?usp=sharing
 ## テーブル定義書
-https://docs.google.com/spreadsheets/d/1KEdW2tH9S1wpNSKqVse_X2AixDq9JVCDfXgH2hgvVWU/edit#gid=0
+https://docs.google.com/spreadsheets/d/1KEdW2tH9S1wpNSKqVse_X2AixDq9JVCDfXgH2hgvVWU/edit?usp=sharing
 ## ER図
-https://docs.google.com/spreadsheets/d/1Fe-BGk8lzAL4q3I34sXO0InCnJF9WsSIBqFupleFAVI/edit#gid=0
+https://docs.google.com/spreadsheets/d/1Fe-BGk8lzAL4q3I34sXO0InCnJF9WsSIBqFupleFAVI/edit?usp=sharing
 ## 画面遷移図
-https://docs.google.com/spreadsheets/d/1TeoYdkVi9JheelVDqsU-LSDzKumtHRyv9aoJE9ZDw0c/edit#gid=0
+https://docs.google.com/spreadsheets/d/1TeoYdkVi9JheelVDqsU-LSDzKumtHRyv9aoJE9ZDw0c/edit?usp=sharing
 ## 画面ワイヤーフレーム
-https://docs.google.com/spreadsheets/d/1D4fZuvnU0kHW06haCUSL5URcz_IUb8-QsOlkY_mSuMA/edit#gid=0
+https://docs.google.com/spreadsheets/d/1D4fZuvnU0kHW06haCUSL5URcz_IUb8-QsOlkY_mSuMA/edit?usp=sharing
 
 ## 使用予定Gem
 * devise
@@ -40,5 +39,7 @@ https://docs.google.com/spreadsheets/d/1D4fZuvnU0kHW06haCUSL5URcz_IUb8-QsOlkY_mS
 * ransack
 
 ## 要件
+就業Termから少なくとも2つ
 1.コメント,devise
+就業Termから少なくとも2つ
 2.ransack
